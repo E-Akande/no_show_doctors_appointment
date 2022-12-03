@@ -1,0 +1,17 @@
+https://stackoverflow.com/questions/63294040/pandas-check-if-dataframe-has-negative-value-in-any-column
+
+https://numpy.org/doc/stable/reference/generated/numpy.around.html#numpy.around
+
+https://stackoverflow.com/questions/27759084/how-to-replace-negative-numbers-in-pandas-data-frame-by-zero
+
+https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.round.html
+
+https://stackoverflow.com/questions/17097236/replace-invalid-values-with-none-in-pandas-dataframe
+
+https://stackoverflow.com/questions/63294040/pandas-check-if-dataframe-has-negative-value-in-any-column
+
+https://pandas.pydata.org/docs/reference/api/pandas.Series.dt.day.html
+
+https://stackoverflow.com/questions/29299597/python-pandas-replace-values-by-their-opposite-sign
+
+https://www.tutorialspoint.com/how-to-add-a-legend-to-a-matplotlib-pie-chart
